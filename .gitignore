@@ -1,0 +1,32 @@
+# STM32CubeMX / local metadata
+.mxproject
+
+# Keil user settings and generated build outputs
+*.uvoptx
+*.uvguix.*
+*.scvd
+MDK-ARM/DS18B20_CAN/
+MDK-ARM/DebugConfig/
+MDK-ARM/*.log
+MDK-ARM/*.lst
+MDK-ARM/*.bak
+
+# Generic compiler outputs
+*.o
+*.obj
+*.d
+*.crf
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lnp
+*.htm
+*.dep
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
